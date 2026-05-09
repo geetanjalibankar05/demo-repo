@@ -1,2 +1,4 @@
 # demo-repo
-This is a demo git repository. It contains demo project
+This is a demo git repository. 
+<br>
+It contains demo project
